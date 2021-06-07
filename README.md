@@ -6,8 +6,8 @@
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/kimtncks)](https://www.facebook.com/kimtncks)   
 
 ## Development
-●  장애인 주차 구역 단속 시스템 구현
-●  데이터 이스 호텔 시스템 구축
+●  장애인 주차 구역 단속 시스템 구현   
+●  데이터베이스활용 호텔 시스템 구축   
 
 
 #### Building for source
