@@ -2,7 +2,7 @@
 ## _취업준비중..._
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
-
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimtncks@gmail.com)](mailto:kimtncks@gmail.com)
 
 ## Development
 ●  장애인 주차 구역 단속 시스템 구현
