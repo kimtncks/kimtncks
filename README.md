@@ -1,6 +1,7 @@
 # SuChan Kim
 ## 취업준비중...
 - - - 
+[블로그]: https://kimtncks.github.io/ "Welcome Blog"
 - - -
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)   
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimtncks@gmail.com)](mailto:kimtncks@gmail.com)   
