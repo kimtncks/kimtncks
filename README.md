@@ -9,7 +9,7 @@
 - - -
 ## Development
 ●  OpenCV를 활용한 장애인 주차 구역 단속 시스템 구현 
-![photo](new/photo.jpg)
+# ![photo](new/photo.jpg)
 ●  데이터베이스를 활용한 호텔 시스템 구축   
 - - -
 
