@@ -1,5 +1,5 @@
 # SuChan Kim
-## 취업준비중...
+## ㅎ
 - - - 
 [Blog_for_OSS](https://kimtncks.github.io)
 - - -
